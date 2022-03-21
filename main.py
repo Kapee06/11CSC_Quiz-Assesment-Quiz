@@ -1,5 +1,5 @@
 def play_MCQ_quiz():
-  print("Hello, Welcome to my multi choice quiz made 2022 \n please type in your name and read the rules,\n please note this quiz was entitled to help year 11 students so if you are trying this quiz below year 11 dont be dishearten if the results arent upto your excepations, thanks and enjoy!")
+  print("Hello, Welcome to my multi choice quiz made 2022 \n please type in your name and read the rules,\n please note this quiz was entitled to help year 11 students \n so if you are trying this quiz below year 11 \n dont be dishearten if the results aren't upto your excepations, thanks and enjoy!")
 
 
 

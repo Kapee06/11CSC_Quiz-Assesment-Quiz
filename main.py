@@ -125,7 +125,7 @@ def main_menu():
     welcome_MCQ_quiz()
   
 
- 
+ print()
 main_menu()
 
 
